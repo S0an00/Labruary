@@ -1,0 +1,4 @@
+﻿  RGB.cpp
+C:\Users\SystemX\Desktop\my programm C++\Completed lab\RGB\RGB.cpp(74,16): warning C4101: soan: неиспользованная локальная переменная
+C:\Users\SystemX\Desktop\my programm C++\Completed lab\RGB\RGB.cpp(69): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+  RGB.vcxproj -> C:\Users\SystemX\Desktop\my programm C++\Completed lab\RGB\x64\Debug\RGB.exe
